@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Termos de uso & Políticas de privacidade
+Última atualização: 02 de Agosto de 2017
 
-You can use the [editor on GitHub](https://github.com/linkestbot/linkestbot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Este Termo de Uso descreve como o @LinkestBot trata as informações trocadas com você. Aqui, o termo “dados pessoais” é definido como qualquer informação que pode ser usada para identificar, contatar ou localizar o usuário, a quem tal informação pertence. As informações pessoais que coletamos estarão sujeitas a este Termo de Uso, que é alterado periodicamente.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Coleta & utilização de dados pessoais
+Quando você inicia uma conversa com o @LinkestBot através do Messenger, por padrão, temos acesso a alguns dados que você disponibiliza para o facebook, como o seu nome completo, gênero, e-mail e lista de amigos. Não enviaremos qualquer tipo de SPAM para seu email.
+Através do Messenger, solicitamos acesso de leitura aos seus dados que foram cadastrados no plugin Linkest Corp.  É esse acesso que permite o @LinkestBot  ajudar você a encontrar os links cadastrados de forma rápida e fácil. Não armazenamos sua senha de acesso do  plugin Linkest Corp, apenas tokens de autenticação.
+O @LinkestBot armazena os dados das conversas. Trabalhamos com esses dados para otimizar os serviços do @LinkestBot para os nossos usuários.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### **Não divulgamos nenhuma informação privada** 
+Nós não vendemos, comercializamos ou transferimos informações pessoais para terceiros externos sem o seu consentimento. 
+Somente em casos especiais e por exigência de lei, nós forneceremos, quando apropriado, as informações a autoridades, seja para proteger os direitos, a propriedade ou a segurança de outros. Ainda em conformidade com a nossa política de propriedade, o @LinkestBot poderá: 
 
-1. Numbered
-2. List
+[1] Conservar ou divulgar suas informações, caso acredite que tal conduta é razoavelmente necessária para: cumprimento de obrigações legais, regulatórias ou de pedidos efetuados nos termos da lei; proteger a segurança de qualquer pessoa; resolver problemas relacionados a fraude, segurança ou de natureza técnica; ou proteger os direitos do @LinkestBot, incluindo de propriedade. No entanto, nada neste Termo de Uso tem por objetivo limitar quaisquer direitos de defesa ou oposição que lhe assistam, em relação a pedidos de divulgação de informação efetuados por terceiros, incluindo entidades governamentais.
 
-**Bold** and _Italic_ and `Code` text
+[2] Compartilhar ou divulgar suas informações ou dados, que não sejam privados e que se encontrem agregados ou que não sejam qualificáveis como dados pessoais.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+O @LinkestBot poderá rever seus termos de uso periodicamente. A versão mais atual deste Termo de Uso regerá a forma de utilização de suas informações por nossos serviços, e estará disponível em Termos & Políticas de Privacidade.
 
-### Jekyll Themes
+### **Informações de contato**
+Se você tiver alguma dúvida sobre esse Termo de Uso e Política de Privacidade, você pode nos contactar utilizando as informações abaixo:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linkestbot/linkestbot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-Email: contato@linkestcorp.com
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
