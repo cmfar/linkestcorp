@@ -21,7 +21,7 @@ Quando você inicia o uso do plugin linkest corp,por padrão, temos acesso a alg
 ### **Informações Básicas sobre Contas** 
 Ao criar ou reconfigurar uma conta no Linkest, você fornecerá alguns dados pessoais, como seu nome completo, senha de acesso e endereço de e-mail. Seu nome é disponibilizado apenas para colaboradores de sua base.
 
-### **Informação Adicional: 
+### **Informação Adicional** 
 O Linkest pode utilizar a sua informação de contato para lhe enviar informação sobre os nossos Serviços, ou para ações de marketing destinadas a você. Você poderá utilizar as configurações da conta para cancelar a opção de receber notificações do Linkest. Você pode ainda cancelar a opção de receber notificações do Linkest seguindo as instruções contidas na notificação ou no nosso website. 
 As configurações de privacidade controlam se outros podem encontrá-lo através do seu endereço de e-mail. Podemos coletar as suas preferências a fim de entendê-lo melhor e fornecer sugestões de conteúdo mais precisas. Caso você entre em contato conosco por e-mail, o Linkest poderá arquivar a sua mensagem, endereço de e-mail e informação de contato com a finalidade de responder ao seu pedido. A disponibilização da informação adicional referida nesta seção é inteiramente opcional.
 
