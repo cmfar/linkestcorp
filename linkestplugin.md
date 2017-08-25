@@ -1,43 +1,48 @@
 
 ## Termos de uso & Políticas de privacidade | Linkest Corp Plugin
+
 https://chrome.google.com/webstore/detail/plugin-linkest-corp/ngagoakfganopopgnohlgcgabhhfplbj
-Última atualização: 02 de Agosto de 2017
+
+Última atualização: 25 de Agosto de 2017
 
 Este Termo de Uso descreve como o Linkest Corp Plugin trata as informações trocadas com você. Aqui, o termo “dados pessoais” é definido como qualquer informação que pode ser usada para identificar, contatar ou localizar o usuário, a quem tal informação pertence. As informações pessoais que coletamos estarão sujeitas a este Termo de Uso, que é alterado periodicamente.
 
 
 
-### Coleta & utilização de dados pessoais
+### **Coleta & utilização de dados pessoais**
 O Linkest coleta e utiliza informação sua, conforme descrita abaixo, com o objetivo de disponibilizar os Serviços, avaliá-los e melhorá-los constantemente.
 
 Quando você opta por utilizar nosso serviço de assinatura,nossos processadores de pagamento de terceiros coletarão e administrarão seu cartão de crédito e informações de pagamento relacionadas. O uso desses dados de terceiros por parte dos processadores é regido pelas respectivas políticas de privacidade. 
 Quando você inicia o uso do plugin linkest corp,por padrão, temos acesso a alguns dados que você disponibiliza como o seu nome completo e e-mail.Não enviaremos qualquer tipo de SPAM para seu email.
 
 
-###Informações Básicas sobre Contas: 
+### **Informações Básicas sobre Contas** 
 Ao criar ou reconfigurar uma conta no Linkest, você fornecerá alguns dados pessoais, como seu nome completo, senha de acesso e endereço de e-mail. Seu nome é disponibilizado apenas para colaboradores de sua base.
 
-###Informação Adicional: 
+### **Informação Adicional: 
 O Linkest pode utilizar a sua informação de contato para lhe enviar informação sobre os nossos Serviços, ou para ações de marketing destinadas a você. Você poderá utilizar as configurações da conta para cancelar a opção de receber notificações do Linkest. Você pode ainda cancelar a opção de receber notificações do Linkest seguindo as instruções contidas na notificação ou no nosso website. 
 As configurações de privacidade controlam se outros podem encontrá-lo através do seu endereço de e-mail. Podemos coletar as suas preferências a fim de entendê-lo melhor e fornecer sugestões de conteúdo mais precisas. Caso você entre em contato conosco por e-mail, o Linkest poderá arquivar a sua mensagem, endereço de e-mail e informação de contato com a finalidade de responder ao seu pedido. A disponibilização da informação adicional referida nesta seção é inteiramente opcional.
 
-###Links, colaboradores e administradores: 
+### **Links, colaboradores e administradores** 
 Os nossos Serviços são desenvolvidos, sobretudo, para auxiliá-lo a compartilhar informação entre uma organização. Todos os dados de sua base não serão expostos na web, caracterizando como uma organização privada.O acesso a base se dará por meio de convites feitos pelo próprio administrador da base.
 Isto inclui não só as mensagens incluídas nos seus Links e os seus respectivos metadados, tais como a informação de quando você salvou um Link ou as tags associadas a ele, mas também as pastas criadas por você, as pessoas que você convidou para administrar ou colaborar, 
 O Linkest poderá usar essa informação para personalizar o conteúdo que mostramos a você. N Quando compartilhar informação ou conteúdos como fotografias, vídeos e links através dos Serviços, você deve escolher qual deles se tornará público para o bot ou não.
 
 
-###Links: 
+### **Links** 
 O Linkest pode manter o registro da forma como você interage com outros links disponibilizados nos Serviços, incluindo as nossas notificações por e-mail, serviços de terceiros e aplicativos cliente, através do redirecionamento de cliques ou por outros meios. Fazemos isto para ajudar a melhorar os nossos Serviços.
 
 
 
-###Dados de Utilização:
-Ao usar nossos Serviços, podemos receber informação ("Dados de Utilização") como o seu endereço IP, tipo de navegador, sistema operacional, página web de origem, páginas web visitadas, localização, termos de pesquisa e informações de cookies. O Linkest recebe Dados de Utilização quando você interage com os nossos Serviços como, por exemplo, quando você visita os nossos websites, acessa os nossos Serviços ou interage com as nossas notificações por e-mail. Também podemos receber Dados de Utilização quando você clica, visualiza ou interage com um link em nossos Serviços. O Linkest usa os Dados de Utilização para fornecer, compreender e melhorar os Serviços.
+### **Dados de Registro**
+Nós coletamos informações que seu navegador envia sempre que você visita o nosso Serviço ("Dados de registro"). Esses dados do registro podem incluir informações como o endereço do Internet (IP) do seu computador, o tipo do navegador, a versão do navegador, as páginas do nosso Serviço que você visita, a hora e a data da sua visita, o tempo gasto nessas páginas e outras Estatisticas.
 
-###Terceiros e Afiliados: 
-O Linkest recorre a uma variedade de serviços de terceiros para nos ajudar a prestar os Serviços, tais como hospedagem (armazenamento principal ou em servidor) de vários blogs e wikis, assim como para melhor compreender e aperfeiçoar a utilização dos nossos Serviços, por exemplo, o Google Analytics. Estes terceiros prestadores de serviços podem coletar informação enviada pelo seu navegador enquanto parte de um pedido de página web como, por exemplo, cookies ou o seu endereço de IP. Terceiros e parceiros podem compartilhar informações conosco, como um ID de cookie do navegador, URL de website visitado, ID de dispositivo móvel ou hash criptográfico de um identificador de conta comum (como um endereço de e-mail), para nos ajudar a avaliar a qualidade dos anúncios e para adaptá-los. Por exemplo, isso permite exibir anúncios sobre itens pelos quais você já demonstrou interesse. Se você preferir, poderá desativar anúncios personalizados nas configurações de privacidade para que não seja feita correspondência da sua conta com as informações compartilhadas por parceiros de anúncios para personalização de anúncios. Também podemos receber informações sobre você de nossos afiliados corporativos a fim de ajudar a fornecer, compreender e melhorar nossos serviços e os serviços de nossos afiliados, incluindo a distribuição de anúncios.
+Além disso, podemos usar serviços de terceiros como o Google Analytics/ mix panel que coletam, monitoram e analisam esse tipo de informação para aumentar a funcionalidade do nosso Serviço. Esses provedores de serviços de terceiros têm suas próprias políticas de privacidade abordando como eles usam essas informações. 
+Podemos também analisar endereços de e-mail para ferramentas de verificação de e-mail de terceiros para verificar os endereços de e-mail do destinatário.
 
+### **Terceiros e Afiliados**
+Podemos empregar empresas e pessoas terceirizadas para facilitar nosso Serviço, fornecer o Serviço em nosso nome, realizar serviços relacionados ao Serviço ou nos ajudar a analisar como nosso Serviço é usado. 
+Esses terceiros têm acesso às suas Informações Pessoais apenas para realizar essas tarefas em nosso nome e são obrigados a não divulgá-las ou utilizá-las para qualquer outro propósito.
 
 
 ### **Não divulgamos nenhuma informação privada** 
