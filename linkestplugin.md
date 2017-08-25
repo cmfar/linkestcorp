@@ -1,9 +1,9 @@
-## Termos de uso & Políticas de privacidade
+
+## Termos de uso & Políticas de privacidade | Linkest Corp Plugin
+https://chrome.google.com/webstore/detail/plugin-linkest-corp/ngagoakfganopopgnohlgcgabhhfplbj
 Última atualização: 02 de Agosto de 2017
 
-
-
-Este Termo de Uso descreve como o @LinkestBot trata as informações trocadas com você. Aqui, o termo “dados pessoais” é definido como qualquer informação que pode ser usada para identificar, contatar ou localizar o usuário, a quem tal informação pertence. As informações pessoais que coletamos estarão sujeitas a este Termo de Uso, que é alterado periodicamente.
+Este Termo de Uso descreve como o Linkest Corp Plugin trata as informações trocadas com você. Aqui, o termo “dados pessoais” é definido como qualquer informação que pode ser usada para identificar, contatar ou localizar o usuário, a quem tal informação pertence. As informações pessoais que coletamos estarão sujeitas a este Termo de Uso, que é alterado periodicamente.
 
 
 ### Coleta & utilização de dados pessoais
