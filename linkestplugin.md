@@ -1,7 +1,9 @@
+# LinkestCorp PLugin 
+# Termos de uso & Políticas de privacidade 
+[https://chrome.google.com/webstore/detail/plugin-linkest-corp/ngagoakfganopopgnohlgcgabhhfplbj
+](https://chrome.google.com/webstore/detail/plugin-linkest-corp/ngagoakfganopopgnohlgcgabhhfplbj
+)
 
-## Termos de uso & Políticas de privacidade | Linkest Corp Plugin
-
-https://chrome.google.com/webstore/detail/plugin-linkest-corp/ngagoakfganopopgnohlgcgabhhfplbj
 
 Última atualização: 25 de Agosto de 2017
 
